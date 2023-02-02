@@ -1,1 +1,1 @@
-# word_2_vector_implementation
+# SpamClassifier
